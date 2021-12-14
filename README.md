@@ -1,5 +1,6 @@
 # Alphabet Soup Charity Funding Predictor
 Joseph March
+
 2021-12-13
 
 ## Overview
@@ -38,4 +39,5 @@ With the model as it currently exists, Logistic Regression could be an alternati
 
 ## Contact
 Joseph March
+
 josephmarch@gmail.com
